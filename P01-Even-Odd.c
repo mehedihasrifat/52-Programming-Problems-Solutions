@@ -1,6 +1,6 @@
 
 /**
- * @file P1-Even-Odd.c
+ * @file P01-Even-Odd.c
  * @author Mehedi Hasan Rifat (mehedihasrifat@gmail.com)
  * @brief This code is actually the solution of the first problem from the book called "52 Programming Problems by Tamim Shahriar Subeen"
  * @version 0.1
